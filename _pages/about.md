@@ -7,15 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year PhD student in [SChool of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
+I am a fifth-year PhD candidate at the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I received my Bachelor’s degree in 2020 from the [School of Electrical and Electronic Engineering](http://seee.hust.edu.cn/) at the [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). Currently, I am pursuing my Ph.D. in the [MIRA Lab](https://miralab.ai/) at USTC, under the supervision of Prof. [Jie Wang](https://miralab.ai/people/jie-wang/). My research interests include Learning to Optimize, AI for Chips, Deep Reinforcement Learning, and Efficient Inference of Large Language Models. 
 
-Previously, I received my Bachelor’s degree in Mathematics and Applied Mathematics in the School of the Gifted Young (SGY) at USTC in 2022.
-
-I am working towards my Ph.D. degree in the MIRA Lab at USTC, under the supervision of Prof. Jie Wang. My current research interests include Leanring to Optimize and AI4EDA.
-
-If you share similar interests or have any inquiries, please feel free to contact me by email.
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Education
 ======

@@ -47,7 +47,7 @@ Preprint
 
 3. Yufei Kuang, Xijun Li, Jie Wang, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning. [Paper](https://arxiv.org/pdf/2310.11845)
 
-Awards
+Honors and Awards
 ======
 
 - IWLS 2024 Programming Contest, **3rd place**, 2024

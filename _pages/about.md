@@ -22,21 +22,23 @@ Research
 Publications
 ------
 
-1. Jie Wang*, **Zhihai Wang**, Xijun Li, Yufei Kuang, Zhihao Shi, Fangzhou Zhu, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming. **IEEE TPAMI 2024**. [Paper](https://ieeexplore.ieee.org/document/10607926) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
+1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**.
 
-2. **Zhihai Wang**, Lei Chen, Jie Wang*, Yinqi Bai, Xing Li, Xijun Li, Mingxuan Yuan, Jianye Hao, Yongdong Zhang, Feng Wu. A Circuit Domain Generalization Framework for Efficient Logic Synthesis in Chip Design. **ICML 2024 Spotlight**. [Paper](https://openreview.net/pdf?id=1KemC8DNa0) [Code](https://github.com/MIRALab-USTC/AI4LogicSynthesis-PruneX)
+2. Jie Wang*, **Zhihai Wang**, Xijun Li, Yufei Kuang, Zhihao Shi, Fangzhou Zhu, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming. **IEEE TPAMI 2024**. (Student First Author) [Paper](https://ieeexplore.ieee.org/document/10607926) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
 
-3. **Zhihai Wang**, Jie Wang*, Dongsheng Zuo, Ji Yunjie, Xilin Xia, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Yongdong Zhang, Feng Wu. A Hierarchical Adaptive Multi-Task Reinforcement Learning Framework for Multiplier Circuit Design. **ICML 2024**. [Paper](https://openreview.net/pdf?id=LGz7GaUSEB)
+3. **Zhihai Wang**, Lei Chen, Jie Wang*, Yinqi Bai, Xing Li, Xijun Li, Mingxuan Yuan, Jianye Hao, Yongdong Zhang, Feng Wu. A Circuit Domain Generalization Framework for Efficient Logic Synthesis in Chip Design. **ICML 2024 Spotlight**. [Paper](https://openreview.net/pdf?id=1KemC8DNa0) [Code](https://github.com/MIRALab-USTC/AI4LogicSynthesis-PruneX)
 
-4. **Zhihai Wang**, Xijun Li, Jie Wang*, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model. **ICLR 2023**. [Paper](https://openreview.net/pdf?id=Zob4P9bRNcK) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
+4. **Zhihai Wang**, Jie Wang*, Dongsheng Zuo, Ji Yunjie, Xilin Xia, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Yongdong Zhang, Feng Wu. A Hierarchical Adaptive Multi-Task Reinforcement Learning Framework for Multiplier Circuit Design. **ICML 2024**. [Paper](https://openreview.net/pdf?id=LGz7GaUSEB)
 
-5. **Zhihai Wang**, Taoxing Pan, Jie Wang*, Qi Zhou. Efficient Exploration in Resource-Restricted Reinforcement Learning. **AAAI 2023**. [Paper](https://arxiv.org/abs/2212.06988) [Code](https://github.com/MIRALab-USTC/RL-RAEB)
+5. **Zhihai Wang**, Xijun Li, Jie Wang*, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model. **ICLR 2023**. [Paper](https://openreview.net/pdf?id=Zob4P9bRNcK) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
 
-6. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
+6. **Zhihai Wang**, Taoxing Pan, Jie Wang*, Qi Zhou. Efficient Exploration in Resource-Restricted Reinforcement Learning. **AAAI 2023**. [Paper](https://arxiv.org/abs/2212.06988) [Code](https://github.com/MIRALab-USTC/RL-RAEB)
 
-7. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
+7. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
 
-8. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
+8. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
+
+9. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
 
 Preprint
 ------

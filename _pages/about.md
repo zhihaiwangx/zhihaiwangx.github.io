@@ -14,7 +14,7 @@ Education
 
 - Phd. Candidate, School of Artificial Intelligence and Data Science, University of Science and Technology of China, 2022 -
 - M.S., Electronic Engineering and Information Science, University of Science and Technology of China, 2020 - 2022
-- B.S.,  School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, 2016 - 2020
+- B.S.,  School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, 2016 - 2020 (GPA Ranking: **5**/358)
 
 Research
 ======

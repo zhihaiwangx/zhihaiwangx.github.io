@@ -57,9 +57,10 @@ Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 20
 Honors and Awards
 ======
 
+- National Scholarship, 2024 (PhD)
 - IWLS 2024 Programming Contest, **3rd place**, 2024
 - Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
-- National Scholarship, 2017
+- National Scholarship, 2017 (Undergraduate)
 
 Experience
 ======

@@ -22,7 +22,7 @@ Research
 Publications
 ------
 
-1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**.
+1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**. [Paper](https://openreview.net/pdf?id=ZYNYhh3ocW) [Code](https://github.com/MIRALab-USTC/AI4EDA_TNet)
 
 2. Jie Wang*, **Zhihai Wang**, Xijun Li, Yufei Kuang, Zhihao Shi, Fangzhou Zhu, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming. **IEEE TPAMI 2024**. (Student First Author) [Paper](https://ieeexplore.ieee.org/document/10607926) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
 
@@ -52,7 +52,7 @@ Preprint
 Academic Services
 ------
 
-Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025.
+Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025. 
 
 Honors and Awards
 ======

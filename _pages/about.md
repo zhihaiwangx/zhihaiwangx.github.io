@@ -65,8 +65,10 @@ Honors and Awards
 - Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
 - IWLS 2024 Programming Contest, **3rd place**, 2024
 - Outstanding Graduate of the HUST, 2020
+- National MathorCup University Mathematical Modeling Challenge, **1st Prize**, 2019
 - Infineon Semiconductor Scholarship, 2018 & 2019 (Top **3%**)
 - National Scholarship, 2017 (Undergraduate)
+- Outstanding Communist Youth League Member, 2017
 
 Experience
 ======

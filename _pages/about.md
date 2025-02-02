@@ -22,6 +22,8 @@ Research
 Publications
 ------
 
+1. **Zhihai Wang**, Jie Wang*, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Feng Wu. Computing Circuits Optimization via Model-Based Circuit Genetic Evolution. **ICLR 2025**.
+
 1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**. [Paper](https://openreview.net/pdf?id=ZYNYhh3ocW) [Code](https://github.com/MIRALab-USTC/AI4EDA_TNet)
 
 2. Jie Wang*, **Zhihai Wang**, Xijun Li, Yufei Kuang, Zhihao Shi, Fangzhou Zhu, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming. **IEEE TPAMI 2024**. (Student First Author) [Paper](https://ieeexplore.ieee.org/document/10607926) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
@@ -35,6 +37,8 @@ Publications
 6. **Zhihai Wang**, Taoxing Pan, Jie Wang*, Qi Zhou. Efficient Exploration in Resource-Restricted Reinforcement Learning. **AAAI 2023**. [Paper](https://arxiv.org/abs/2212.06988) [Code](https://github.com/MIRALab-USTC/RL-RAEB)
 
 7. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
+
+1. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author)
 
 8. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
 

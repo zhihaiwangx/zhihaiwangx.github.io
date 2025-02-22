@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD Candidate at the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I received my Bachelor’s degree in 2020 from the [School of Electrical and Electronic Engineering](http://seee.hust.edu.cn/) at the [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). Currently, I am pursuing my Ph.D. in the [MIRA Lab](https://miralab.ai/) at USTC, under the supervision of Prof. [Jie Wang](https://miralab.ai/people/jie-wang/). My research interests include Learning to Optimize, AI for Chips, Deep Reinforcement Learning, and Efficient Inference of Large Language Models. 
+I am a fifth-year PhD Candidate at the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I received my Bachelor’s degree in 2020 from the [School of Electrical and Electronic Engineering](http://seee.hust.edu.cn/) at the [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). Currently, I am pursuing my Ph.D. in the [MIRA Lab](https://miralab.ai/) at USTC, under the supervision of Prof. [Jie Wang](https://miralab.ai/people/jie-wang/). My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), Learning to Optimize, AI for Chips, and Efficient DRL for Large Language Model Reasoning.
 
 Education
 ======
@@ -57,6 +57,10 @@ Academic Services
 ------
 
 Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025. 
+
+Projects
+======
+- Awesome DeepSeek-R1: A collection of the recent reproduction papers and projects on DeepSeek-R1. [Github](https://github.com/haoyangliu123/awesome-deepseek-r1)
 
 Honors and Awards
 ======

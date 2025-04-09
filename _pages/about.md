@@ -38,11 +38,15 @@ Publications
 
 7. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
 
-1. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author)
+8. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author)
 
-8. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
+9. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
 
-9. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
+10. Yufei Kuang, Xijun Li, Jie Wang*, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. **IEEE TPAMI 2025**. [Paper](https://arxiv.org/pdf/2310.11845)
+
+11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
+
+12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. A General Framework for Efficient Logic Synthesis. **ISEDA 2025**.
 
 Preprint
 ------
@@ -50,8 +54,6 @@ Preprint
 1. **Zhihai Wang#**, Zijie Geng#, Zhaojie Tu#, Jie Wang*, Yuxi Qian, Zhexuan Xu, Ziyan Liu, Siyuan Xu, Zhentao Tang, Shixiong Kai, Mingxuan Yuan, Jianye Hao, Bin Li, Yongdong Zhang, Feng Wu. Benchmarking End-To-End Performance of AI-Based Chip Placement Algorithms. [Paper](https://arxiv.org/abs/2407.15026) [Code](https://github.com/MIRALab-USTC/ChiPBench)
 
 2. Xijun Li, Fangzhou Zhu, Hui-Ling Zhen, Weilin Luo, Meng Lu, Yimin Huang, Zhenan Fan, Zirui Zhou, Yufei Kuang, **Zhihai Wang**, Zijie Geng, Yang Li, Haoyang Liu, Zhiwu An, Muming Yang, Jianshu Li, Jie Wang, Junchi Yan, Defeng Sun, Tao Zhong, Yong Zhang, Jia Zeng, Mingxuan Yuan, Jianye Hao, Jun Yao, Kun Mao. Machine Learning Insides OptVerse AI Solver: Design Principles and Applications. [Paper](https://arxiv.org/pdf/2401.05960)
-
-3. Yufei Kuang, Xijun Li, Jie Wang, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning. [Paper](https://arxiv.org/pdf/2310.11845)
 
 Academic Services
 ------
@@ -64,7 +66,7 @@ Projects
 
 Honors and Awards
 ======
-
+- Outstanding Graduate of the USTC, 2025
 - National Scholarship, 2024 (PhD)
 - Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
 - IWLS 2024 Programming Contest, **3rd place**, 2024

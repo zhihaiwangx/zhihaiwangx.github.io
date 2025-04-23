@@ -58,7 +58,7 @@ Preprint
 Academic Services
 ------
 
-Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025. 
+Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025. 
 
 Projects
 ======
@@ -66,6 +66,7 @@ Projects
 
 Honors and Awards
 ======
+- Presidential Special Award (**Top 0.1%**), Chinese Academy of Sciences, 2025
 - Outstanding Graduate of the USTC, 2025
 - National Scholarship, 2024 (PhD)
 - Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023

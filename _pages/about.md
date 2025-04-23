@@ -16,6 +16,19 @@ Education
 - M.S., Electronic Engineering and Information Science, University of Science and Technology of China, 2020 - 2022
 - B.S.,  School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, 2016 - 2020 (GPA Ranking: **5**/358)
 
+Honors and Awards
+======
+- Presidential Special Award (**Top 0.1%**), Chinese Academy of Sciences, 2025
+- Outstanding Graduate of the USTC (**Top 5%**), 2025
+- National Scholarship, 2024 (PhD)
+- Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
+- IWLS 2024 Programming Contest, **3rd place**, 2024
+- Outstanding Graduate of the HUST (**Top 5%**), 2020
+- National MathorCup University Mathematical Modeling Challenge, **1st Prize**, 2019
+- Infineon Semiconductor Scholarship, 2018 & 2019 (Top **3%**)
+- National Scholarship, 2017 (Undergraduate)
+- Outstanding Communist Youth League Member, 2017
+
 Research
 ======
 
@@ -63,19 +76,6 @@ Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 20
 Projects
 ======
 - Awesome DeepSeek-R1: A collection of the recent reproduction papers and projects on DeepSeek-R1. [Github](https://github.com/haoyangliu123/awesome-deepseek-r1)
-
-Honors and Awards
-======
-- Presidential Special Award (**Top 0.1%**), Chinese Academy of Sciences, 2025
-- Outstanding Graduate of the USTC, 2025
-- National Scholarship, 2024 (PhD)
-- Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
-- IWLS 2024 Programming Contest, **3rd place**, 2024
-- Outstanding Graduate of the HUST, 2020
-- National MathorCup University Mathematical Modeling Challenge, **1st Prize**, 2019
-- Infineon Semiconductor Scholarship, 2018 & 2019 (Top **3%**)
-- National Scholarship, 2017 (Undergraduate)
-- Outstanding Communist Youth League Member, 2017
 
 Experience
 ======

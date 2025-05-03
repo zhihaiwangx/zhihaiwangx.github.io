@@ -35,7 +35,11 @@ Research
 Publications
 ------
 
-1. **Zhihai Wang**, Jie Wang*, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Feng Wu. Computing Circuits Optimization via Model-Based Circuit Genetic Evolution. **ICLR 2025**.
+1. **Zhihai Wang**, Jie Wang*, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu. Accelerating Large Language Model Reasoning via Speculative Search. **ICML 2025**.
+
+1. Runquan Gui, **Zhihai Wang**, Jie Wang*, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**.
+
+1. **Zhihai Wang**, Jie Wang*, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Feng Wu. Computing Circuits Optimization via Model-Based Circuit Genetic Evolution. **ICLR 2025**. [Paper](https://openreview.net/pdf?id=KWH4UIoQKS)
 
 1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**. [Paper](https://openreview.net/pdf?id=ZYNYhh3ocW) [Code](https://github.com/MIRALab-USTC/AI4EDA_TNet)
 
@@ -51,7 +55,7 @@ Publications
 
 7. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
 
-8. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author)
+8. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author) [Paper](https://openreview.net/pdf?id=EG9nDN3eGB)
 
 9. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
 

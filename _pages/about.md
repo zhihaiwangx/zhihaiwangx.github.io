@@ -59,7 +59,7 @@ Publications
 
 9. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
 
-10. Yufei Kuang, Xijun Li, Jie Wang*, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. **IEEE TPAMI 2025**. [Paper](https://arxiv.org/pdf/2310.11845)
+10. Yufei Kuang, Xijun Li, Jie Wang*, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning. **IEEE TPAMI 2025**. [Paper](https://arxiv.org/pdf/2310.11845) [Code](https://github.com/MIRALab-USTC/L2O-RL4Presolve)
 
 11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
 

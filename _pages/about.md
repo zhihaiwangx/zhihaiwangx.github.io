@@ -63,7 +63,7 @@ Publications
 
 11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
 
-12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. A General Framework for Efficient Logic Synthesis. **ISEDA 2025**.
+12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. MAD-EA: A Multi-Mask Driven Evolutionary Algorithm Framework for Macro Placement Refinement. **ISEDA 2025**.
 
 Preprint
 ------

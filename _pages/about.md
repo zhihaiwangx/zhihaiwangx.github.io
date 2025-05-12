@@ -72,6 +72,8 @@ Preprint
 
 2. Xijun Li, Fangzhou Zhu, Hui-Ling Zhen, Weilin Luo, Meng Lu, Yimin Huang, Zhenan Fan, Zirui Zhou, Yufei Kuang, **Zhihai Wang**, Zijie Geng, Yang Li, Haoyang Liu, Zhiwu An, Muming Yang, Jianshu Li, Jie Wang, Junchi Yan, Defeng Sun, Tao Zhong, Yong Zhang, Jia Zeng, Mingxuan Yuan, Jianye Hao, Jun Yao, Kun Mao. Machine Learning Insides OptVerse AI Solver: Design Principles and Applications. [Paper](https://arxiv.org/pdf/2401.05960)
 
+3. Qingyue Yang, Jie Wang*, Xing Li, **Zhihai Wang**, Chen Chen, Lei Chen, Xianzhi Yu, Wulong Liu, Jianye Hao, Mingxuan Yuan, Bin Li. AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference. [Paper](https://arxiv.org/pdf/2502.04077)
+
 Academic Services
 ------
 

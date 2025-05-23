@@ -18,7 +18,7 @@ Education
 
 Honors and Awards
 ======
-- Presidential Special Award (**Top 0.1%**), Chinese Academy of Sciences, 2025
+- President Excellence Award (**Top 0.5%**), Chinese Academy of Sciences, 2025
 - Outstanding Graduate of the USTC (**Top 5%**), 2025
 - National Scholarship, 2024 (PhD)
 - Huawei Noah’s Ark Lab, Excellent Interns (**5**/400+), 2023
@@ -39,7 +39,7 @@ Publications
 
 1. Runquan Gui, **Zhihai Wang**, Jie Wang*, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**. [Paper](https://arxiv.org/pdf/2505.02322)
 
-1. **Zhihai Wang**, Jie Wang*, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Feng Wu. Computing Circuits Optimization via Model-Based Circuit Genetic Evolution. **ICLR 2025**. [Paper](https://openreview.net/pdf?id=KWH4UIoQKS)
+1. **Zhihai Wang**, Jie Wang*, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Feng Wu. Computing Circuits Optimization via Model-Based Circuit Genetic Evolution. **ICLR 2025**. [Paper](https://openreview.net/pdf?id=KWH4UIoQKS)[Code](https://github.com/chicwzh/AI4EDA-MUTE)
 
 1. **Zhihai Wang**, Jie Wang*, Qingyue Yang, Yinqi Bai, Xing Li, Lei Chen, Jianye Hao, Mingxuan Yuan, Bin Li, Yongdong Zhang, Feng Wu. Towards Next-Generation Logic Synthesis: A Scalable Neural Circuit Generation Framework. **NeurIPS 2024**. [Paper](https://openreview.net/pdf?id=ZYNYhh3ocW) [Code](https://github.com/MIRALab-USTC/AI4EDA_TNet)
 

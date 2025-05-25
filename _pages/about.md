@@ -47,7 +47,7 @@ Publications
 
 3. **Zhihai Wang**, Lei Chen, Jie Wang*, Yinqi Bai, Xing Li, Xijun Li, Mingxuan Yuan, Jianye Hao, Yongdong Zhang, Feng Wu. A Circuit Domain Generalization Framework for Efficient Logic Synthesis in Chip Design. **ICML 2024 Spotlight** (Top **3.5%**). [Paper](https://openreview.net/pdf?id=1KemC8DNa0) [Code](https://github.com/MIRALab-USTC/AI4LogicSynthesis-PruneX)
 
-4. **Zhihai Wang**, Jie Wang*, Dongsheng Zuo, Ji Yunjie, Xilin Xia, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Yongdong Zhang, Feng Wu. A Hierarchical Adaptive Multi-Task Reinforcement Learning Framework for Multiplier Circuit Design. **ICML 2024**. [Paper](https://openreview.net/pdf?id=LGz7GaUSEB)
+4. **Zhihai Wang**, Jie Wang*, Dongsheng Zuo, Ji Yunjie, Xilin Xia, Yuzhe Ma, Jianye Hao, Mingxuan Yuan, Yongdong Zhang, Feng Wu. A Hierarchical Adaptive Multi-Task Reinforcement Learning Framework for Multiplier Circuit Design. **ICML 2024**. [Paper](https://openreview.net/pdf?id=LGz7GaUSEB) [Code](https://github.com/chicwzh/AIChips-HAVE)
 
 5. **Zhihai Wang**, Xijun Li, Jie Wang*, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model. **ICLR 2023**. [Paper](https://openreview.net/pdf?id=Zob4P9bRNcK) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
 

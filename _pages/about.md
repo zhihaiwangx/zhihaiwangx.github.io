@@ -61,9 +61,9 @@ Publications
 
 10. Yufei Kuang, Xijun Li, Jie Wang*, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning. **IEEE TPAMI 2025**. [Paper](https://arxiv.org/pdf/2310.11845) [Code](https://github.com/MIRALab-USTC/L2O-RL4Presolve)
 
-11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
+11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024 Oral**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
 
-12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. MAD-EA: A Multi-Mask Driven Evolutionary Algorithm Framework for Macro Placement Refinement. **ISEDA 2025**.
+12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. MAD-EA: A Multi-Mask Driven Evolutionary Algorithm Framework for Macro Placement Refinement. **ISEDA 2025 Oral**.
 
 Preprint
 ------

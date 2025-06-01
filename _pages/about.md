@@ -35,7 +35,7 @@ Research
 Publications
 ------
 
-1. **Zhihai Wang**, Jie Wang*, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu. Accelerating Large Language Model Reasoning via Speculative Search. **ICML 2025**. [Paper](https://arxiv.org/pdf/2505.02865)
+1. **Zhihai Wang**, Jie Wang*, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu. Accelerating Large Language Model Reasoning via Speculative Search. **ICML 2025**. [Paper](https://arxiv.org/pdf/2505.02865) [Code](https://github.com/MIRALab-USTC/LLMReasoning-SpecSearch)
 
 1. Runquan Gui, **Zhihai Wang**, Jie Wang*, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**. [Paper](https://arxiv.org/pdf/2505.02322)
 

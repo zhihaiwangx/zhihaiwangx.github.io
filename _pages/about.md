@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Research Engineer at the [Qwen Team, Alibaba Group](https://qwenlm.github.io/), focusing on large language model (LLM) post-training and optimization. I obtained my Ph.D. degree in 2025 from the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I worked in the [MIRA Lab](https://miralab.ai/) under the supervision of Prof. [Jie Wang](https://miralab.ai/people/jie-wang/). Prior to that, I received my Bachelor’s degree in 2020 from the [School of Electrical and Electronic Engineering](http://seee.hust.edu.cn/) at the [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/).
 
-My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), Learning to Optimize, and Efficient DRL for LLM**. Currently, I am particularly interested in advancing post-training techniques for foundation models, including RL algorithms, RL infra, Agentic RL system.
+My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), Learning to Optimize, and Efficient DRL for LLM. Currently, I am particularly interested in advancing post-training techniques for foundation models, including RL algorithms, RL infra, Agentic RL system.
 
 Education
 ======

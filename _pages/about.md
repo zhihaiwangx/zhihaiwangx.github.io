@@ -14,7 +14,7 @@ My research interests include Sample-Efficient Deep Reinforcement Learning (DRL)
 Education
 ======
 
-- Phd. Candidate, School of Artificial Intelligence and Data Science, University of Science and Technology of China, 2022 -
+- Phd. Candidate, School of Artificial Intelligence and Data Science, University of Science and Technology of China, 2022 - 2025
 - M.S., Electronic Engineering and Information Science, University of Science and Technology of China, 2020 - 2022
 - B.S.,  School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, 2016 - 2020 (GPA Ranking: **5**/358)
 
@@ -36,6 +36,7 @@ Research
 
 Publications
 ------
+1. **Zhihai Wang**#, Zijie Geng#, Zhaojie Tu#, Jie Wang*, Yuxi Qian, Zhexuan Xu, Ziyan Liu, Siyuan Xu, Zhentao Tang, Shixiong Kai, Mingxuan Yuan, Jianye Hao, Bin Li, Yongdong Zhang, Feng Wu. Benchmarking End-To-End Performance of AI-Based Chip Placement Algorithms. **NeurIPS 2025 DB Track** [Paper](https://arxiv.org/abs/2407.15026) [Code](https://github.com/MIRALab-USTC/ChiPBench)
 
 1. **Zhihai Wang**, Jie Wang*, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu. Accelerating Large Language Model Reasoning via Speculative Search. **ICML 2025**. [Paper](https://arxiv.org/pdf/2505.02865) [Code](https://github.com/MIRALab-USTC/LLMReasoning-SpecSearch)
 
@@ -57,6 +58,12 @@ Publications
 
 7. **Zhihai Wang**, Jie Wang*, Qi Zhou, Bin Li, Houqiang Li. Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic. **AAAI 2022**. [Paper](https://arxiv.org/abs/2112.10504) [Code](https://github.com/MIRALab-USTC/RL-CMBAC)
 
+8. Xilin Xia, Jie Wang*, Wanbo Zhang, **Zhihai Wang**, Mingxuan Yuan, Jianye Hao, Feng Wu. High-Performance Arithmetic Circuit Optimization via Differentiable Architecture Search. **NeurIPS 2025 Spotlight**. 
+
+3. Qingyue Yang, Jie Wang*, Xing Li, **Zhihai Wang**, Chen Chen, Lei Chen, Xianzhi Yu, Wulong Liu, Jianye Hao, Mingxuan Yuan, Bin Li. AttentionPredictor: Temporal Patterns Matter for KV Cache Compression. **NeurIPS 2025**. [Paper](https://arxiv.org/pdf/2502.04077) [Code](https://github.com/MIRALab-USTC/LLM-AttentionPredictor)
+
+7. Mingxuan Ye, Jie Wang*, Fangzhou Zhu, **Zhihai Wang**, Yufei Kuang, Xijun Li, Weilin Luo, Jianye Hao, Feng Wu. Dynamic Configuration for Cutting Plane Separators via Reinforcement Learning on Incremental Graph. **NeurIPS 2025**.
+
 8. Yinqi Bai, Jie Wang*, Lei Chen, **Zhihai Wang**, Yufei Kuang, Mingxuan Yuan, Jianye Hao, Feng Wu. A Graph Enhanced Symbolic Discovery Framework For Efficient Circuit Synthesis. **ICLR 2025**. (Student Second Author) [Paper](https://openreview.net/pdf?id=EG9nDN3eGB)
 
 9. Haotian Ling, **Zhihai Wang**, Jie Wang*. Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming. **AAAI 2024**. [Paper](https://arxiv.org/abs/2401.17527)
@@ -69,17 +76,14 @@ Publications
 
 Preprint
 ------
+1. Xijun Li, Fangzhou Zhu, Hui-Ling Zhen, Weilin Luo, Meng Lu, Yimin Huang, Zhenan Fan, Zirui Zhou, Yufei Kuang, **Zhihai Wang**, Zijie Geng, Yang Li, Haoyang Liu, Zhiwu An, Muming Yang, Jianshu Li, Jie Wang, Junchi Yan, Defeng Sun, Tao Zhong, Yong Zhang, Jia Zeng, Mingxuan Yuan, Jianye Hao, Jun Yao, Kun Mao. Machine Learning Insides OptVerse AI Solver: Design Principles and Applications. [Paper](https://arxiv.org/pdf/2401.05960)
 
-1. **Zhihai Wang#**, Zijie Geng#, Zhaojie Tu#, Jie Wang*, Yuxi Qian, Zhexuan Xu, Ziyan Liu, Siyuan Xu, Zhentao Tang, Shixiong Kai, Mingxuan Yuan, Jianye Hao, Bin Li, Yongdong Zhang, Feng Wu. Benchmarking End-To-End Performance of AI-Based Chip Placement Algorithms. [Paper](https://arxiv.org/abs/2407.15026) [Code](https://github.com/MIRALab-USTC/ChiPBench)
 
-2. Xijun Li, Fangzhou Zhu, Hui-Ling Zhen, Weilin Luo, Meng Lu, Yimin Huang, Zhenan Fan, Zirui Zhou, Yufei Kuang, **Zhihai Wang**, Zijie Geng, Yang Li, Haoyang Liu, Zhiwu An, Muming Yang, Jianshu Li, Jie Wang, Junchi Yan, Defeng Sun, Tao Zhong, Yong Zhang, Jia Zeng, Mingxuan Yuan, Jianye Hao, Jun Yao, Kun Mao. Machine Learning Insides OptVerse AI Solver: Design Principles and Applications. [Paper](https://arxiv.org/pdf/2401.05960)
-
-3. Qingyue Yang, Jie Wang*, Xing Li, **Zhihai Wang**, Chen Chen, Lei Chen, Xianzhi Yu, Wulong Liu, Jianye Hao, Mingxuan Yuan, Bin Li. AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference. [Paper](https://arxiv.org/pdf/2502.04077)
 
 Academic Services
 ------
 
-Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025. 
+Invited as a reviewer/PC member for conferences, including ICLR 2023, NeurIPS 2023, ICLR 2024, ICML 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026.
 
 Projects
 ======

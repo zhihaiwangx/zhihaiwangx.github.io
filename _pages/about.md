@@ -92,4 +92,4 @@ Projects
 Experience
 ======
 
-- Noah’s Ark Lab, Huawei Technologies, Research Intern, 2022/06 - 
+- Noah’s Ark Lab, Huawei Technologies, Research Intern, 2022/06 - 2025/04

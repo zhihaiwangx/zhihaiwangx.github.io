@@ -11,6 +11,13 @@ I am a Research Engineer at the [Qwen Team, Alibaba Group](https://qwenlm.github
 
 My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), Learning to Optimize, and Efficient DRL for LLM. Currently, I am particularly interested in advancing post-training techniques for foundation models, including RL algorithms, RL infra, Agentic RL system.
 
+## 🔥 News
+
+* *2026.01*: 🎉 Built and released **Qwen3-Max-Thinking** as a core contributor. [Blog](https://qwen.ai/blog?id=qwen3-max-thinking)
+* *2025.10*: 🎉 Built and released **Qwen3-Max-Thinking-Preview** as a core contributor.
+* *2025.09*: 🎉 **Four NeurIPS 2025 papers** accepted.
+* *2025.05*: 🎉 Awarded the **President’s Excellent Award** from the **Chinese Academy of Sciences**.
+
 Education
 ======
 

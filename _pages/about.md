@@ -57,7 +57,7 @@ Selected Publications
 
 5. **Zhihai Wang**, Xijun Li, Jie Wang*, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu. Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model. **ICLR 2023**. [Paper](https://openreview.net/pdf?id=Zob4P9bRNcK) [Code](https://github.com/MIRALab-USTC/L2O-HEM-Torch)
 
-1. Weiqi Zhai1∗, **Zhihai Wang***,  Jinghang Wang, Boyu Yang, Xiaogang Li, Xander Xu, Bohan Wang, Peng Wang, Xingzhe Wu, Anfeng Li, Qiyuan Feng, Yuhao Zhou, Shoulin Han, Wenjie Luo, Yiyuan Li, Yaxuan Wang, Ruixian Luo, Guojie Lin, Peiyao Xiao, Chengliang Xu, Ben Wang, Zeyu Wang, Zichao Chen, Jianan Ye, Yijie Hu, Jialong Chen, Zongwen Shen, Yuliang Xu, An Yang, Bowen Yu, Dayiheng Liu, Junyang Lin, Hu Wei, Que Shen, Bing Zhao. HLE-Verified: A Systematic Verification and Structured Revision of Humanity’s Last Exam. [Paper](https://arxiv.org/pdf/2602.13964)[HuggingFace](https://huggingface.co/datasets/skylenage/HLE-Verified)
+1. Weiqi Zhai1∗, **Zhihai Wang***,  Jinghang Wang, Boyu Yang, Xiaogang Li, Xander Xu, Bohan Wang, Peng Wang, Xingzhe Wu, Anfeng Li, Qiyuan Feng, Yuhao Zhou, Shoulin Han, Wenjie Luo, Yiyuan Li, Yaxuan Wang, Ruixian Luo, Guojie Lin, Peiyao Xiao, Chengliang Xu, Ben Wang, Zeyu Wang, Zichao Chen, Jianan Ye, Yijie Hu, Jialong Chen, Zongwen Shen, Yuliang Xu, An Yang, Bowen Yu, Dayiheng Liu, Junyang Lin, Hu Wei, Que Shen, Bing Zhao. HLE-Verified: A Systematic Verification and Structured Revision of Humanity’s Last Exam. [Paper](https://arxiv.org/pdf/2602.13964) [HuggingFace](https://huggingface.co/datasets/skylenage/HLE-Verified)
 
 Other Publications
 ------

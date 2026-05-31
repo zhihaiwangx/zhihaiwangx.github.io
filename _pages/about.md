@@ -9,10 +9,11 @@ redirect_from:
 
 I am a Research Engineer at the [Qwen Team, Alibaba Group](https://qwenlm.github.io/), focusing on large language model (LLM) post-training and optimization. I obtained my Ph.D. degree in 2025 from the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I worked in the [MIRA Lab](https://miralab.ai/) under the supervision of Prof. [Jie Wang](https://miralab.ai/people/jie-wang/). Prior to that, I received my Bachelor’s degree in 2020 from the [School of Electrical and Electronic Engineering](http://seee.hust.edu.cn/) at the [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/).
 
-My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), and Efficient DRL for LLM. Currently, I am particularly interested in advancing post-training techniques for foundation models, including Reasoning/Agentic RL data, algorithm, and infra.
+My research interests include Sample-Efficient Deep Reinforcement Learning (DRL), and Efficient DRL for LLM. Currently, I am particularly interested in advancing post-training techniques for **real-world cowork agents**, like OpenClaw, Hermes, and Claude Cowork.
 
 ## 🔥 News
 
+* *2026.05*: 🎉 Built and released **Qwen3.6-Plus** and **Qwen3.7-Max** as a core contributor. [3.6Blog](https://qwen.ai/blog?id=qwen3.6) [3.7blog](https://qwen.ai/blog?id=qwen3.7) Built QwenClawBench and CoworkBench as internal evaluation for real-world agentic capactity. [LeaderBoard](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/) [Github](https://github.com/SKYLENAGE-AI/QwenClawBench) [HuggingFace](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
 * *2026.02*: 🎉 Built and released **Qwen3.5-Plus**, **Qwen3.5 122B/35B/27B/9B/4B/2B/0.8B** as a core contributor. [Blog](https://qwen.ai/blog?id=qwen3.5)
 * *2026.01*: 🎉 **One ICLR 2026 paper** accepted.
 * *2026.01*: 🎉 Built and released **Qwen3-Max-Thinking** as a core contributor. [Blog](https://qwen.ai/blog?id=qwen3-max-thinking)
@@ -59,6 +60,9 @@ Selected Publications
 
 1. Weiqi Zhai∗, **Zhihai Wang***,  Jinghang Wang, Boyu Yang, Xiaogang Li, Xander Xu, Bohan Wang, Peng Wang, Xingzhe Wu, Anfeng Li, Qiyuan Feng, Yuhao Zhou, Shoulin Han, Wenjie Luo, Yiyuan Li, Yaxuan Wang, Ruixian Luo, Guojie Lin, Peiyao Xiao, Chengliang Xu, Ben Wang, Zeyu Wang, Zichao Chen, Jianan Ye, Yijie Hu, Jialong Chen, Zongwen Shen, Yuliang Xu, An Yang, Bowen Yu, Dayiheng Liu, Junyang Lin, Hu Wei, Que Shen, Bing Zhao. HLE-Verified: A Systematic Verification and Structured Revision of Humanity’s Last Exam. [Paper](https://arxiv.org/pdf/2602.13964) [HuggingFace](https://huggingface.co/datasets/skylenage/HLE-Verified)
 
+1. QwenClawBench: A real-user-distribution benchmark for OpenClaw agents — built for robust evaluation at scale. (Project Lead) [LeaderBoard](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/) [Github](https://github.com/SKYLENAGE-AI/QwenClawBench) [HuggingFace](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
+
+
 Other Publications
 ------
 
@@ -87,11 +91,15 @@ Other Publications
 
 10. Yufei Kuang, Xijun Li, Jie Wang*, Fangzhou Zhu, Meng Lu, **Zhihai Wang**, Jia Zeng, Houqiang Li, Yongdong Zhang, Feng Wu. Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning. **IEEE TPAMI 2025**. [Paper](https://arxiv.org/pdf/2310.11845) [Code](https://github.com/MIRALab-USTC/L2O-RL4Presolve)
 
-11. Yinqi Bai, Jie Wang, Lei Chen, **Zhihai Wang**, Yumeng Li, Mingxuan Yuan, Jianye HAO, Defu Lian, Enhong Chen. Evolving Graph Structured Programs for Circuit Generation with Large Language Models. **ICLR 2026**
+11. Yinqi Bai, Jie Wang, Lei Chen, **Zhihai Wang**, Yumeng Li, Mingxuan Yuan, Jianye HAO, Defu Lian, Enhong Chen. Evolving Graph Structured Programs for Circuit Generation with Large Language Models. **ICLR 2026**.
 
 11. Lei Chen, Xing Li, Tsaras Dimitrios, **Zhihai Wang**, Yinqi Bai, Mingxuan Yuan. A General Framework for Efficient Logic Synthesis. **ISEDA 2024 Oral**. [Paper](https://ieeexplore.ieee.org/abstract/document/10617733)
 
 12. Zhen Wang, Jie Wang*, **Zhihai Wang**, Siyuan Xu, Zijie Geng, Mingxuan Yuan, Jianye Hao. MAD-EA: A Multi-Mask Driven Evolutionary Algorithm Framework for Macro Placement Refinement. **ISEDA 2025 Oral**.
+
+13. Runquan Gui, Jie Wang, **Zhihai Wang**, Chi Ma, Jianye HAO, Feng Wu. Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization. **ICML 2026**.
+
+14. Yinqi Bai, Jie Wang, Lei Chen, **Zhihai Wang**, Yumeng Li, Mingxuan Yuan, Jianye HAO, Defu Lian, Enhong Chen. Evolving Graph Structured Programs for Circuit Generation with Large Language Models. **ICLR 2026**.
 
 Preprint
 ------

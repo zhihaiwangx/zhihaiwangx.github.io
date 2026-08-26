@@ -13,12 +13,11 @@ My research interests include Sample-Efficient Deep Reinforcement Learning (DRL)
 
 ## 🔥 News
 
-* *2026.05*: 🎉 Built and released **Qwen3.6-Plus** and **Qwen3.7-Max** as a core contributor. [3.6Blog](https://qwen.ai/blog?id=qwen3.6) [3.7blog](https://qwen.ai/blog?id=qwen3.7) Built QwenClawBench and CoworkBench as internal evaluation for real-world agentic capactity. [LeaderBoard](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/) [Github](https://github.com/SKYLENAGE-AI/QwenClawBench) [HuggingFace](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
+* *2026.08*: 🎉 Built and released **Qwen3.8-Max** as a core contributor. [3.8Blog](https://qwen.ai/blog?id=qwen3.8)
+* *2026.08*: 🎉 Gemini-3.7-Flash uses our [HLE-Verified Benchmark](https://huggingface.co/datasets/skylenage/HLE-Verified) as one of the primary scores on [its leaderboard](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/).
+* *2026.06*: 🎉 Built and released **Qwen3.6-Plus** and **Qwen3.7-Max** as a core contributor. [3.6Blog](https://qwen.ai/blog?id=qwen3.6) [3.7blog](https://qwen.ai/blog?id=qwen3.7) Built **QwenClawBench** and **CoworkBench** as internal evaluation for real-world agentic capactity. [LeaderBoard](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/) [Github](https://github.com/SKYLENAGE-AI/QwenClawBench) [HuggingFace](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
 * *2026.02*: 🎉 Built and released **Qwen3.5-Plus**, **Qwen3.5 122B/35B/27B/9B/4B/2B/0.8B** as a core contributor. [Blog](https://qwen.ai/blog?id=qwen3.5)
-* *2026.01*: 🎉 **One ICLR 2026 paper** accepted.
 * *2026.01*: 🎉 Built and released **Qwen3-Max-Thinking** as a core contributor. [Blog](https://qwen.ai/blog?id=qwen3-max-thinking)
-* *2025.10*: 🎉 Built and released **Qwen3-Max-Thinking-Preview** as a core contributor.
-* *2025.09*: 🎉 **Four NeurIPS 2025 papers** accepted.
 * *2025.05*: 🎉 Awarded the **President’s Excellent Award** from the **Chinese Academy of Sciences**.
 
 Education
